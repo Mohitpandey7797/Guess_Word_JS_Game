@@ -17,3 +17,7 @@ Technologies Used:-
     HTML
     CSS
     JavaScript
+
+
+# visit website 
+https://mohitpandey7797.github.io/Guess_Word_JS_Game/
